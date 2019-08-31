@@ -1,7 +1,7 @@
 /****QUESTION***
 ***SOURCE:CODECHEF*** 
 ***ACTUAL CHALLENGE DETAILS: AUGUST LUNCH TIME - 31st AUGUST 20:00-23:00 (Question Name:TRIP2)***
-***NOW AVAILABLE IN:PRACTICE(EASY)***
+***NOW AVAILABLE IN->Chef and Trip : PRACTICE(EASY)***
 Chef and his friend Chefu decided to go on a trip. The trip takes place over the next N days (numbered 1 through N). There are K different places Chef and Chefu could visit (numbered 1 through K). They have written a sequence A1,A2,…,AN which denotes the plan of the trip during these N days; however, the plan is not completed yet. For each valid i, they want to visit the place Ai on the i-th day, but if Ai=−1, then they haven't decided which place to visit on that day.
 
 Chef and his friend do not want to visit the same place two days in a row, but they can visit a place more than once in total. It is not necessary to visit all the places during the trip. Determine whether it is possible to complete the plan in such a way that this condition is satisfied. If it is possible, find one way of completing the plan.
