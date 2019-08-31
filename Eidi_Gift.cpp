@@ -1,4 +1,9 @@
 /*
+***QUESTION***
+***SOURCE:CODECHEF*** 
+***ACTUAL CHALLENGE DETAILS: AUGUST LUNCH TIME - 31st AUGUST 20:00-23:00 (Question Name:EID2)***
+***NOW AVAILABLE IN-> EIDI GIFT : PRACTICE(BEGINNER)***
+
 Eidi gifts are a tradition in which children receive money from elder relatives during the Eid celebration.
 
 Chef has three children (numbered 1,2,3) and he wants to give them Eidi gifts. The oldest child, Chefu, thinks that a distribution of money is fair only if an older child always receives more money than a younger child; if two children have the same age, they should receive the same amounts of money.
